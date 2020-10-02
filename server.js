@@ -17,7 +17,7 @@ app.get('/api/data', (req, res) => {
      (req.connection.socket ? req.connection.socket.remoteAddress : null);
   console.log("IP:", ip)
   // using google's IP address for testing
-  fetch((url + '8.8.8.8/country_name'), settings)
+  fetch((url + ip + '/country_name'), settings)
     .then(res => res.json())
     .then((json) => {
         // get the name of the country from the data
