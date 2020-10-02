@@ -23,7 +23,6 @@ npm run client
 
 ### Author
 
-Author
 Sunwoong Kim
 LinkedIn(https://linkedin.com/in/sunwoong-kim-136b061b6/)
 

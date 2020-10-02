@@ -1,0 +1,12 @@
+.Rand-section{
+  color: black;
+  background-color: lightgrey;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  margin-bottom: 30px;
+  /*background-color:none !important;*/
+}
+
+.footnote{
+  color: grey;
+}
