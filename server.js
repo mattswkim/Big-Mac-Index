@@ -1,8 +1,8 @@
 const express = require('express');
-const app = express();
-const bigMacIndexJson = require('./src/bigMacIndex.json')
 const fetch = require('node-fetch');
+const bigMacIndexJson = require('./src/bigMacIndex.json')
 
+const app = express();
 
 
 let url = "https://ipvigilante.com/json/";
@@ -11,7 +11,7 @@ let settings = { method: "Get" };
 app.get('/', (req, res) => { res.send("It's working!") })
 
 app.get('/api/data', (req, res) => {  
-  let ip = req.headers['x-forwarded-for'] || 
+  let ip =  
      req.connection.remoteAddress || 
      req.socket.remoteAddress ||
      (req.connection.socket ? req.connection.socket.remoteAddress : null);
