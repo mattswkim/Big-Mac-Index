@@ -22,8 +22,10 @@ app.get('/api/data', (req, res) => {
     .then((json) => {
         // get the name of the country from the data
         const country = json.data.country_name
+        console.log(country)
         // search for the big mac data
         const bigMacData = bigMacIndexJson.find(({Country}) => Country === country)
+        console.log("bigmac data " + bigMacData)
         res.json(bigMacData)
     })
     .catch(err => res.status(400).json('Unable to get Big Mac index data. Err: '+err));;
