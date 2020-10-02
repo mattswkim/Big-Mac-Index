@@ -1,0 +1,524 @@
+[
+  {
+    "Country": "Argentina",
+    "Date": "2016-01-01",
+    "Local_price": 33,
+    "Dollar_ex": 13.80925,
+    "Dollar_price": 2.3897025544472,
+    "Dollar_PPP": 6.69371196754564,
+    "Dollar_valuation": -51.5273315527951
+  },
+  {
+    "Country": "Australia",
+    "Date": "2016-01-01",
+    "Local_price": 5.3,
+    "Dollar_ex": 1.4157287463722,
+    "Dollar_price": 3.743655,
+    "Dollar_PPP": 1.07505070993915,
+    "Dollar_valuation": -24.0637931034483
+  },
+  {
+    "Country": "Austria",
+    "Date": "2016-01-01",
+    "Local_price": 3.5,
+    "Dollar_ex": 0.930232558139535,
+    "Dollar_price": 3.7625,
+    "Dollar_PPP": 0.709939148073022,
+    "Dollar_valuation": -23.6815415821501
+  },
+  {
+    "Country": "Belgium",
+    "Date": "2016-01-01",
+    "Local_price": 3.95,
+    "Dollar_ex": 0.930232558139535,
+    "Dollar_price": 4.24625,
+    "Dollar_PPP": 0.801217038539554,
+    "Dollar_valuation": -13.869168356998
+  },
+  {
+    "Country": "Brazil",
+    "Date": "2016-01-01",
+    "Local_price": 13.5,
+    "Dollar_ex": 4.0248,
+    "Dollar_price": 3.35420393559928,
+    "Dollar_PPP": 2.73833671399594,
+    "Dollar_valuation": -31.9634090142133
+  },
+  {
+    "Country": "Britain",
+    "Date": "2016-01-01",
+    "Local_price": 2.89,
+    "Dollar_ex": 0.684532977376185,
+    "Dollar_price": 4.2218565,
+    "Dollar_PPP": 0.586206896551724,
+    "Dollar_valuation": -14.3639655172414
+  },
+  {
+    "Country": "Canada",
+    "Date": "2016-01-01",
+    "Local_price": 5.84,
+    "Dollar_ex": 1.4092,
+    "Dollar_price": 4.14419528810673,
+    "Dollar_PPP": 1.18458417849899,
+    "Dollar_valuation": -15.9392436489508
+  },
+  {
+    "Country": "Chile",
+    "Date": "2016-01-01",
+    "Local_price": 2100,
+    "Dollar_ex": 715.215,
+    "Dollar_price": 2.93618002978125,
+    "Dollar_PPP": 425.963488843813,
+    "Dollar_valuation": -40.4425957448021
+  },
+  {
+    "Country": "China",
+    "Date": "2016-01-01",
+    "Local_price": 17.6,
+    "Dollar_ex": 6.5582,
+    "Dollar_price": 2.68366320026837,
+    "Dollar_PPP": 3.56997971602434,
+    "Dollar_valuation": -45.5646409681873
+  },
+  {
+    "Country": "Colombia",
+    "Date": "2016-01-01",
+    "Local_price": 7900,
+    "Dollar_ex": 3253.9,
+    "Dollar_price": 2.42785580380467,
+    "Dollar_PPP": 1602.43407707911,
+    "Dollar_valuation": -50.7534319715078
+  },
+  {
+    "Country": "Costa Rica",
+    "Date": "2016-01-01",
+    "Local_price": 2150,
+    "Dollar_ex": 535.25,
+    "Dollar_price": 4.01681457262961,
+    "Dollar_PPP": 436.105476673428,
+    "Dollar_valuation": -18.5230309811438
+  },
+  {
+    "Country": "Czech Republic",
+    "Date": "2016-01-01",
+    "Local_price": 75,
+    "Dollar_ex": 25.1442,
+    "Dollar_price": 2.98279523707257,
+    "Dollar_PPP": 15.2129817444219,
+    "Dollar_valuation": -39.4970540147553
+  },
+  {
+    "Country": "Denmark",
+    "Date": "2016-01-01",
+    "Local_price": 30,
+    "Dollar_ex": 6.9405,
+    "Dollar_price": 4.32245515452777,
+    "Dollar_PPP": 6.08519269776876,
+    "Dollar_valuation": -12.3234248574489
+  },
+  {
+    "Country": "Egypt",
+    "Date": "2016-01-01",
+    "Local_price": 16.93,
+    "Dollar_ex": 7.83005,
+    "Dollar_price": 2.16218287239545,
+    "Dollar_PPP": 3.43407707910751,
+    "Dollar_valuation": -56.1423352455284
+  },
+  {
+    "Country": "Estonia",
+    "Date": "2016-01-01",
+    "Local_price": 3,
+    "Dollar_ex": 0.930232558139535,
+    "Dollar_price": 3.225,
+    "Dollar_PPP": 0.608519269776876,
+    "Dollar_valuation": -34.5841784989858
+  },
+  {
+    "Country": "Euro area",
+    "Date": "2016-01-01",
+    "Local_price": 3.72,
+    "Dollar_ex": 0.930232558139535,
+    "Dollar_price": 3.999,
+    "Dollar_PPP": 0.754563894523327,
+    "Dollar_valuation": -18.8843813387424
+  },
+  {
+    "Country": "Finland",
+    "Date": "2016-01-01",
+    "Local_price": 4.1,
+    "Dollar_ex": 0.930232558139535,
+    "Dollar_price": 4.4075,
+    "Dollar_PPP": 0.831643002028398,
+    "Dollar_valuation": -10.5983772819473
+  },
+  {
+    "Country": "France",
+    "Date": "2016-01-01",
+    "Local_price": 4.1,
+    "Dollar_ex": 0.930232558139535,
+    "Dollar_price": 4.4075,
+    "Dollar_PPP": 0.831643002028398,
+    "Dollar_valuation": -10.5983772819473
+  },
+  {
+    "Country": "Germany",
+    "Date": "2016-01-01",
+    "Local_price": 3.59,
+    "Dollar_ex": 0.930232558139535,
+    "Dollar_price": 3.85925,
+    "Dollar_PPP": 0.728194726166329,
+    "Dollar_valuation": -21.7190669371197
+  },
+  {
+    "Country": "Greece",
+    "Date": "2016-01-01",
+    "Local_price": 3.35,
+    "Dollar_ex": 0.930232558139535,
+    "Dollar_price": 3.60125,
+    "Dollar_PPP": 0.679513184584179,
+    "Dollar_valuation": -26.9523326572008
+  },
+  {
+    "Country": "Hong Kong",
+    "Date": "2016-01-01",
+    "Local_price": 19.2,
+    "Dollar_ex": 7.75235,
+    "Dollar_price": 2.4766683650764,
+    "Dollar_PPP": 3.89452332657201,
+    "Dollar_valuation": -49.7633191668074
+  },
+  {
+    "Country": "Hungary",
+    "Date": "2016-01-01",
+    "Local_price": 900,
+    "Dollar_ex": 292.67905,
+    "Dollar_price": 3.07504073147702,
+    "Dollar_PPP": 182.555780933063,
+    "Dollar_valuation": -37.6259486515817
+  },
+  {
+    "Country": "India",
+    "Date": "2016-01-01",
+    "Local_price": 127,
+    "Dollar_ex": 66.8025,
+    "Dollar_price": 1.90112645484825,
+    "Dollar_PPP": 25.7606490872211,
+    "Dollar_valuation": -61.4375972647414
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2016-01-01",
+    "Local_price": 30500,
+    "Dollar_ex": 13947.5,
+    "Dollar_price": 2.18677182290733,
+    "Dollar_PPP": 6186.61257606491,
+    "Dollar_valuation": -55.6435735718594
+  },
+  {
+    "Country": "Ireland",
+    "Date": "2016-01-01",
+    "Local_price": 3.95,
+    "Dollar_ex": 0.930232558139535,
+    "Dollar_price": 4.24625,
+    "Dollar_PPP": 0.801217038539554,
+    "Dollar_valuation": -13.869168356998
+  },
+  {
+    "Country": "Israel",
+    "Date": "2016-01-01",
+    "Local_price": 16.9,
+    "Dollar_ex": 3.94105,
+    "Dollar_price": 4.28819730782406,
+    "Dollar_PPP": 3.42799188640974,
+    "Dollar_valuation": -13.0183101861246
+  },
+  {
+    "Country": "Italy",
+    "Date": "2016-01-01",
+    "Local_price": 4,
+    "Dollar_ex": 0.930232558139535,
+    "Dollar_price": 4.3,
+    "Dollar_PPP": 0.811359026369169,
+    "Dollar_valuation": -12.7789046653144
+  },
+  {
+    "Country": "Japan",
+    "Date": "2016-01-01",
+    "Local_price": 370,
+    "Dollar_ex": 118.645,
+    "Dollar_price": 3.11854692570273,
+    "Dollar_PPP": 75.0507099391481,
+    "Dollar_valuation": -36.7434700668818
+  },
+  {
+    "Country": "Latvia",
+    "Date": "2013-07-01",
+    "Local_price": 1.69,
+    "Dollar_ex": 0.54635,
+    "Dollar_price": 3.09325523931546,
+    "Dollar_PPP": 0.370885149963424,
+    "Dollar_valuation": -32.1158323486001
+  },
+  {
+    "Country": "Lithuania",
+    "Date": "2014-07-01",
+    "Local_price": 8.95,
+    "Dollar_ex": 2.56455,
+    "Dollar_price": 3.48989101401805,
+    "Dollar_PPP": 1.86652763295099,
+    "Dollar_valuation": -27.2181227524911
+  },
+  {
+    "Country": "Malaysia",
+    "Date": "2016-01-01",
+    "Local_price": 8,
+    "Dollar_ex": 4.3925,
+    "Dollar_price": 1.82128628343768,
+    "Dollar_PPP": 1.62271805273834,
+    "Dollar_valuation": -63.0570733582621
+  },
+  {
+    "Country": "Mexico",
+    "Date": "2016-01-01",
+    "Local_price": 49,
+    "Dollar_ex": 17.43675,
+    "Dollar_price": 2.81015670924914,
+    "Dollar_PPP": 9.93914807302231,
+    "Dollar_valuation": -42.9988497109707
+  },
+  {
+    "Country": "Netherlands",
+    "Date": "2016-01-01",
+    "Local_price": 3.45,
+    "Dollar_ex": 0.930232558139535,
+    "Dollar_price": 3.70875,
+    "Dollar_PPP": 0.699797160243408,
+    "Dollar_valuation": -24.7718052738337
+  },
+  {
+    "Country": "New Zealand",
+    "Date": "2016-01-01",
+    "Local_price": 5.9,
+    "Dollar_ex": 1.50806816468104,
+    "Dollar_price": 3.91229,
+    "Dollar_PPP": 1.19675456389452,
+    "Dollar_valuation": -20.6432048681541
+  },
+  {
+    "Country": "Norway",
+    "Date": "2016-01-01",
+    "Local_price": 46.8,
+    "Dollar_ex": 8.97465,
+    "Dollar_price": 5.21468803797363,
+    "Dollar_PPP": 9.49290060851927,
+    "Dollar_valuation": 5.77460523273075
+  },
+  {
+    "Country": "Pakistan",
+    "Date": "2016-01-01",
+    "Local_price": 300,
+    "Dollar_ex": 104.885,
+    "Dollar_price": 2.86027553987701,
+    "Dollar_PPP": 60.8519269776876,
+    "Dollar_valuation": -41.9822405704461
+  },
+  {
+    "Country": "Peru",
+    "Date": "2016-01-01",
+    "Local_price": 10,
+    "Dollar_ex": 3.418,
+    "Dollar_price": 2.92568753657109,
+    "Dollar_PPP": 2.02839756592292,
+    "Dollar_valuation": -40.6554252216817
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2016-01-01",
+    "Local_price": 131,
+    "Dollar_ex": 47.0225,
+    "Dollar_price": 2.78590036684566,
+    "Dollar_PPP": 26.5720081135903,
+    "Dollar_valuation": -43.4908647698649
+  },
+  {
+    "Country": "Poland",
+    "Date": "2016-01-01",
+    "Local_price": 9.6,
+    "Dollar_ex": 4.0477,
+    "Dollar_price": 2.37171727153692,
+    "Dollar_PPP": 1.947261663286,
+    "Dollar_valuation": -51.8921445935716
+  },
+  {
+    "Country": "Portugal",
+    "Date": "2016-01-01",
+    "Local_price": 3,
+    "Dollar_ex": 0.930232558139535,
+    "Dollar_price": 3.225,
+    "Dollar_PPP": 0.608519269776876,
+    "Dollar_valuation": -34.5841784989858
+  },
+  {
+    "Country": "Russia",
+    "Date": "2016-01-01",
+    "Local_price": 114,
+    "Dollar_ex": 74.655,
+    "Dollar_price": 1.52702431183444,
+    "Dollar_PPP": 23.1237322515213,
+    "Dollar_valuation": -69.025876027699
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Date": "2016-01-01",
+    "Local_price": 12,
+    "Dollar_ex": 3.7543,
+    "Dollar_price": 3.19633486934981,
+    "Dollar_PPP": 2.43407707910751,
+    "Dollar_valuation": -35.1656213113628
+  },
+  {
+    "Country": "Singapore",
+    "Date": "2016-01-01",
+    "Local_price": 4.7,
+    "Dollar_ex": 1.43725,
+    "Dollar_price": 3.27013393633675,
+    "Dollar_PPP": 0.953346855983773,
+    "Dollar_valuation": -33.6686828329259
+  },
+  {
+    "Country": "South Africa",
+    "Date": "2016-01-01",
+    "Local_price": 28,
+    "Dollar_ex": 15.81375,
+    "Dollar_price": 1.77061101889179,
+    "Dollar_PPP": 5.67951318458418,
+    "Dollar_valuation": -64.084969190836
+  },
+  {
+    "Country": "South Korea",
+    "Date": "2016-01-01",
+    "Local_price": 4300,
+    "Dollar_ex": 1197.75,
+    "Dollar_price": 3.59006470465456,
+    "Dollar_PPP": 872.210953346856,
+    "Dollar_valuation": -27.179214915729
+  },
+  {
+    "Country": "Spain",
+    "Date": "2016-01-01",
+    "Local_price": 3.5,
+    "Dollar_ex": 0.930232558139535,
+    "Dollar_price": 3.7625,
+    "Dollar_PPP": 0.709939148073022,
+    "Dollar_valuation": -23.6815415821501
+  },
+  {
+    "Country": "Sri Lanka",
+    "Date": "2016-01-01",
+    "Local_price": 350,
+    "Dollar_ex": 144.05,
+    "Dollar_price": 2.42971190558834,
+    "Dollar_PPP": 70.9939148073022,
+    "Dollar_valuation": -50.7157828481068
+  },
+  {
+    "Country": "Sweden",
+    "Date": "2016-01-01",
+    "Local_price": 45,
+    "Dollar_ex": 8.60185,
+    "Dollar_price": 5.23143277318251,
+    "Dollar_PPP": 9.12778904665315,
+    "Dollar_valuation": 6.11425503412806
+  },
+  {
+    "Country": "Switzerland",
+    "Date": "2016-01-01",
+    "Local_price": 6.5,
+    "Dollar_ex": 1.0088,
+    "Dollar_price": 6.44329896907217,
+    "Dollar_PPP": 1.3184584178499,
+    "Dollar_valuation": 30.6957194537965
+  },
+  {
+    "Country": "Taiwan",
+    "Date": "2016-01-01",
+    "Local_price": 69,
+    "Dollar_ex": 33.2315,
+    "Dollar_price": 2.07634322856326,
+    "Dollar_PPP": 13.9959432048682,
+    "Dollar_valuation": -57.8835044916174
+  },
+  {
+    "Country": "Thailand",
+    "Date": "2016-01-01",
+    "Local_price": 112,
+    "Dollar_ex": 36.22,
+    "Dollar_price": 3.09221424627278,
+    "Dollar_PPP": 22.7180527383367,
+    "Dollar_valuation": -37.2776014954812
+  },
+  {
+    "Country": "Turkey",
+    "Date": "2016-01-01",
+    "Local_price": 10.25,
+    "Dollar_ex": 3.0096,
+    "Dollar_price": 3.40576820839979,
+    "Dollar_PPP": 2.07910750507099,
+    "Dollar_valuation": -30.917480559842
+  },
+  {
+    "Country": "UAE",
+    "Date": "2016-01-01",
+    "Local_price": 13,
+    "Dollar_ex": 3.6731,
+    "Dollar_price": 3.53924477961395,
+    "Dollar_PPP": 2.6369168356998,
+    "Dollar_valuation": -28.2100450382566
+  },
+  {
+    "Country": "Ukraine",
+    "Date": "2016-01-01",
+    "Local_price": 36,
+    "Dollar_ex": 23.35,
+    "Dollar_price": 1.54175588865096,
+    "Dollar_PPP": 7.30223123732252,
+    "Dollar_valuation": -68.7270610821306
+  },
+  {
+    "Country": "United States",
+    "Date": "2016-01-01",
+    "Local_price": 4.93,
+    "Dollar_ex": 1,
+    "Dollar_price": 4.93,
+    "Dollar_PPP": 1,
+    "Dollar_valuation": 0
+  },
+  {
+    "Country": "Uruguay",
+    "Date": "2016-01-01",
+    "Local_price": 113,
+    "Dollar_ex": 30.185,
+    "Dollar_price": 3.74358124896472,
+    "Dollar_PPP": 22.920892494929,
+    "Dollar_valuation": -24.0652890676528
+  },
+  {
+    "Country": "Venezuela",
+    "Date": "2016-01-01",
+    "Local_price": 132,
+    "Dollar_ex": 198.6986,
+    "Dollar_price": 0.66432274812203,
+    "Dollar_PPP": 26.7748478701826,
+    "Dollar_valuation": -86.5248935472205
+  },
+  {
+    "Country": "Vietnam",
+    "Date": "2016-01-01",
+    "Local_price": 60000,
+    "Dollar_ex": 22467.5,
+    "Dollar_price": 2.67052409035273,
+    "Dollar_PPP": 12170.3853955375,
+    "Dollar_valuation": -45.8311543539
+  }
+]
