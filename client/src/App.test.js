@@ -1,10 +1,10 @@
 import React from 'react';
-import { render } from '@testing-library/react';
 import App from './App';
+import { shallow } from 'enzyme';
 
-test('renders Input', () => {
-  const { getByText } = render(<App />);
-  const demoElement = getByText(/Hi there/i);
-  expect(demoElement).toBeInTheDocument();
-});
 
+describe('<App />', () => {
+  it('expect to render Footer component', () => {
+    expect(shallow(<App />)).toMatchSnapshot;
+  })
+})

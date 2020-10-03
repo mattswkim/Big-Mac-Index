@@ -16,6 +16,8 @@ npm run server
 # Run the React client only
 npm run client
 
+# If you want to run test for the server install jest 
+
 # Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
 

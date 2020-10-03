@@ -20,7 +20,7 @@ class App extends Component {
   }
   
   componentDidMount() {
-    fetch('http://localhost:5000/api/data')
+    fetch('http://localhost:5000/query')
     .then(res => res.json())
     .then(data => {
       this.setState({data:data})
@@ -57,7 +57,10 @@ class App extends Component {
         ?
           <div>
             <LocalResult amount={amount} data={data} />
-            <RandResult randomCountryData={randomCountryData} data={data} amount={amount} />
+            <RandResult 
+            randomCountryData={randomCountryData} 
+            data={data} amount={amount} 
+            />
           </div>
         : 
           <div></div>
