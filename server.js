@@ -16,8 +16,8 @@ app.get('/query', (req, res) => {query.getBigMacData(req, res);})
 app.get('/random', (req, res) => {random.randomCountryGen(req, res);})
 
 
-const port = 5000;
 
+const port = 5000;
 
 app.listen(port, () => {
     console.log(`Server started on ${port}`)

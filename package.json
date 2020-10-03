@@ -1,8 +1,8 @@
 {
   "name": "bigmac",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Big Mac Index Calculator",
+  "main": "server.js",
   "scripts": {
     "client-install": "cd client && npm install",
     "start": "node server.js",
@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "test": "jest"
   },
-  "author": "",
+  "author": "Sunwoong Kim",
   "license": "ISC",
   "dependencies": {
     "concurrently": "^5.3.0",
